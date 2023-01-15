@@ -13,7 +13,4 @@ const renderShoppingList = (items) => {
 const sampleList = ["Orange", "Banana", "Coffee", "Paper"];
 renderShoppingList(sampleList);
 
-
-
 // Завершите функцию, чтобы она отображала элементы <li> для каждого элемента в массиве, который она получает. 
-

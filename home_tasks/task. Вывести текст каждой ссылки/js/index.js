@@ -9,9 +9,7 @@ const logLinksTexts = () => {
 
 }
 
-
 // Sample usage - do not modify
 logLinksTexts();
-
 
 // Завершите функцию, чтобы она записывала текст каждой ссылки в консоль.

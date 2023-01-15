@@ -7,4 +7,3 @@ buttons.forEach(button => {
     console.log(event); 
   });
 });
-

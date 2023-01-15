@@ -12,4 +12,3 @@ const updateFullName = () => {
 
 firstName.addEventListener("keyup", () => updateFullName());
 lastName.addEventListener("keyup", () => updateFullName());
-

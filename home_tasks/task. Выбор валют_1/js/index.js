@@ -9,5 +9,3 @@ document.querySelectorAll(".cards .card").forEach(card => {
     console.log(getSelectedCurrency());
   });
 })
-
-

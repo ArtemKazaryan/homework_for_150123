@@ -26,3 +26,4 @@ export default class WeatherCities {
         return citiesTempsCSV
       }
   }
+  

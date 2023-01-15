@@ -11,6 +11,3 @@ tabs.forEach(tab => {
     activateClickedTab(clickedTab);
   });
 });
-
-
-

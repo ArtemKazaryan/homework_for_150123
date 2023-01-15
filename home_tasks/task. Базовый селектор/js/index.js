@@ -9,5 +9,4 @@ const getFooterElement = () => {
 // Sample usage - do not modify
 console.log(getFooterElement());
 
-
 // Завершите метод getFooterElement, чтобы он находил и возвращал элемент с #footer-wrapper.

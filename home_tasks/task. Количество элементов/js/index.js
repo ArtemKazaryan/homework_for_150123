@@ -9,5 +9,4 @@ const getNumberOfLinks = () => {
 // Sample usage - do not modify
 getNumberOfLinks(); // 5
 
-
 // Завершите функцию, чтобы она возвращала количество ссылок на странице.
