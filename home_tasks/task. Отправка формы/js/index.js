@@ -6,5 +6,4 @@ form.addEventListener("submit", event => {
 	// event callback (when the form is submitted)
 });
 
-
 // Добавьте обработчик события на форму. Также необходимо прервать перезагрузку страницы после отправки данных.

@@ -14,4 +14,4 @@ password.addEventListener("blur", () => {
   console.log("password: blur (cursor out)")
 });
 
-// Запустите код в браузере.
+// Запустите код в браузере

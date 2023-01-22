@@ -4,5 +4,4 @@ name.addEventListener("keyup", event => {
   console.log(event.key);
 });
 
-
 // Запустите код в браузере.

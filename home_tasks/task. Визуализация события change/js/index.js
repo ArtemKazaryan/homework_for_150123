@@ -4,5 +4,4 @@ select.addEventListener("change", event => {
   console.log(event.currentTarget.value); // or select.value
 });
 
-
 // Запустите код в браузере.
